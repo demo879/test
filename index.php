@@ -17,7 +17,7 @@ $megabyte = 1000 * 1000;
 
 	$cfg = array_merge(array(
 		'files' => array(
-			'demoid' => 'finn.zip',
+			'demoid' => 'new.zip',
 		),
 		'size' => $megabyte * 3, // piece size in bytes
 	), $cfg);
