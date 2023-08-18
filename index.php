@@ -19,7 +19,7 @@ $megabyte = 1000 * 1000;
 		'files' => array(
 			'demoid' => 'finn.zip',
 		),
-		'size' => $megabyte * 3, // piece size in bytes
+		'size' => $megabyte * 28, // piece size in bytes
 	), $cfg);
 
 	if (empty($cfg['files'])) {
